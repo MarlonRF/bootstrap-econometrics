@@ -1,5 +1,7 @@
 # bootstrap- econometrics
-Simple bootstrap function in Python. It resample data and plot a graph with median and mean line.
+Simple bootstrap function in Python. It resampled data and returns:
+Graph, statistics description or data series (list)
+
 
 ## Plot original distribuition and resampled distribution
 Blue: Original data
