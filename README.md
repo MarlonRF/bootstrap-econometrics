@@ -21,4 +21,10 @@ Bootstrap(serie_dados,stats=True)
 ```python 
 new_series=Bootstrap(serie_dados,serie=True)
 ```
-<img src="series.png" width="50%" height="50%">
+<img src="serie.png" width="50%" height="50%">
+
+
+## To Do:
+* Improve graph options
+* Write comments and parameters properly
+* Any sugestions?
