@@ -21,7 +21,7 @@ Bootstrap(serie_dados,stats=True)
 ```python 
 new_series=Bootstrap(serie_dados,serie=True)
 ```
-<img src="serie.png" width="50%" height="50%">
+<img src="serie.png" width="20%" height="20%">
 
 
 ## To Do:
