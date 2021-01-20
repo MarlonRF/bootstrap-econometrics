@@ -6,3 +6,7 @@ Bootstrap(serie_dados,graph=True)
 ```
 
 <img src="boot_plot.png" width="50%" height="50%">
+
+```python 
+Bootstrap(serie_dados,stats=True)
+```
