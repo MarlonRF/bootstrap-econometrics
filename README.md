@@ -2,6 +2,8 @@
 Simple bootstrap function in Python. It resample data and plot a graph with median and mean line.
 
 ## Plot original distribuition and resampled distribution
+Blue: Original data
+Red: Resampled data
 
 ```python 
 Bootstrap(serie_dados,graph=True)
